@@ -21,6 +21,10 @@ build/
 dist/*.bundle.js
 dist/*.bundle.js.map
 
+# Dependency directories
+node_modules/
+bower_components/
+
 # Misc
 .env
 .DS_Store
