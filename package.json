@@ -1,0 +1,19 @@
+{
+  "name": "roguegenius",
+  "version": "1.0.0",
+  "description": "Site for George Chamales",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v1x1e/roguegenius.git"
+  },
+  "author": "Victoria Chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v1x1e/roguegenius/issues"
+  },
+  "homepage": "https://github.com/v1x1e/roguegenius#readme"
+}
