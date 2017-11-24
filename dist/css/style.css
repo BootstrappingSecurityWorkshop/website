@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Calibre-Light';
-  src: url('/files/Calibre-Light.otf');
+  src: url('./Calibre-Light.otf');
 }
 
 @font-face {
   font-family: 'Calibre-Medium';
-  src: url('/files/Calibre-Light.otf');
+  src: url('./Calibre-Light.otf');
 }
 
 *,
