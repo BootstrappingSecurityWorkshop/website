@@ -5,7 +5,7 @@ const Updates = () => {
     <div className="updates bkgd-map container column padding">
       <div className="bkgd-arrow bkgd-arrow-up"></div>
       <div className="title">Get Workshop Updates</div>
-      <img src="../dist/img/register-key.svg"/>
+      <img src="/img/register-key.svg"/>
 
       <form className="signup container" method="" name="updates" action="">
         <input className="input-email" type="text" name="email" placeholder="Type your email here!"/>
