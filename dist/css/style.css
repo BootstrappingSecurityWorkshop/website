@@ -66,13 +66,14 @@ a:hover {
   flex-flow: row wrap;
 }
 
-.section {
-  padding: 6rem 0;
+.padding {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 }
 
 .button {
-  border: 1px solid #BA8D3B;
   padding: 0.5rem 1rem;
+  border: 1px solid #BA8D3B;
   border-radius: 2px;
 }
 
@@ -83,8 +84,22 @@ a:hover {
   padding: 1rem;
 }
 
+.section {
+  max-width: 1000px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
 .title {
+  font-family: 'Playfair Display', serif;
   font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.text {
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .bkgd-map {
@@ -112,10 +127,9 @@ a:hover {
 .hero-title {
   font-family: 'Playfair Display', serif;
   font-size: 3.5rem;
-  letter-spacing: 2px;
-}
-
-.hero-subtitle {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  text-align: center;
 }
 
 .hero > img {
