@@ -77,10 +77,12 @@ a:hover {
   border-radius: 2px;
 }
 
-.nav {
+.nav,
+.footer {
   justify-content: space-around;
   background: #222;
   font-size: 1rem;
+  color: #FFF;
   padding: 1rem;
 }
 
@@ -128,7 +130,7 @@ a:hover {
 
 .highlight {
   color: #BA8D3B;
-  font-family: 'Calibre-Medium';
+  font-family: 'Calibre-Medium', sans-serif;
 }
 
 .hero,
@@ -146,6 +148,7 @@ a:hover {
 
 .hero-text {
   text-align: center;
+  margin-top: 1rem;
 }
 
 .hero > img {
@@ -254,4 +257,52 @@ a:hover {
 
 .register-info {
   padding: 1rem 2rem;
+}
+
+.updates .title {
+  color: #FFF;
+}
+
+.updates img {
+  margin: 2rem 0;
+}
+
+.signup {
+  width: auto;
+  background: #BA8D3B;
+  padding: 2rem;
+  border-radius: 2px;
+}
+
+.signup input {
+  padding: 1rem;
+  font-family: 'Calibre-Light', sans-serif;
+  font-size: 1.5rem;
+  border: 1px solid #FFF;
+  border-radius: 2px;
+}
+
+.input-email {
+  width: 20rem;
+  border: 1px solid #BA8D3B;
+}
+
+.input-submit {
+  color: #FFF;
+  background: transparent;
+  margin-left: 2rem;
+  transition: all 0.3s ease-in-out;
+}
+
+.input-submit:active,
+.input-submit:hover {
+  color: #222;
+}
+
+.footer {
+  justify-content: center;
+}
+
+.footer span {
+  padding: 0 2rem;
 }

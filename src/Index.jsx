@@ -9,6 +9,8 @@ import Outcome from './Outcome.jsx';
 import Faqs from './Faqs.jsx';
 import George from './George.jsx';
 import Register from './Register.jsx';
+import Updates from './Updates.jsx';
+import Footer from './Footer.jsx';
 
 export default class Index extends React.Component {
   constructor(props) {
@@ -29,6 +31,8 @@ export default class Index extends React.Component {
         <Faqs/>
         <George/>
         <Register/>
+        <Updates/>
+        <Footer/>
       </div>
     );
   }
