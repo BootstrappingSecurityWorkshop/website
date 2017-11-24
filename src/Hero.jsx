@@ -5,11 +5,11 @@ const Hero = () => {
     <div className="hero bkgd-map container column padding">
       <div className="hero-title">Bootstrapping Security</div>
       <div className="hero-text">Defend your company at startup speed.</div>
-      <img src="../dist/img/register-key.svg"/>
+      <img src="/img/register-key.svg"/>
 
       <a className="register container column" href="###">
         <span>Register</span>
-        <img src="../dist/img/register-btn.svg"/>
+        <img src="/img/register-btn.svg"/>
       </a>
 
       <div className="bkgd-arrow"></div>
