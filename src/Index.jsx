@@ -1,6 +1,7 @@
 import React from 'react';
+import Nav from './Nav.jsx';
 
-class Index extends React.Component {
+export default class Index extends React.Component {
   constructor(props) {
     super(props);
     this.state = {};
@@ -9,10 +10,8 @@ class Index extends React.Component {
   render() {
     return (
       <div id="index" className="container column">
-        <div>RogueGenius</div>
+        <Nav/>
       </div>
     );
   }
-}
-
-export default Index;
+};
