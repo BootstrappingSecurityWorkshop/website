@@ -7,7 +7,7 @@ const Updates = () => {
       <div className="title">Get Workshop Updates</div>
       <img src="/img/register-key.svg"/>
 
-      <form className="signup container row" method="" name="updates" action="" data-netlify="true">
+      <form netlify className="signup container row" method="" name="updates" action="">
         <input className="input-email" type="text" name="email" placeholder="Type your email here!"/>
         <input className="input-submit" type="submit" value="Submit"/>
       </form>
