@@ -170,21 +170,17 @@ a:hover {
 }
 
 .list {
+  position: relative;
+  max-width: 500px;
   background: #FFF;
   color: #222;
   padding: 2rem;
   border-radius: 2px;
-  margin-top: 2rem;
-}
-
-.get-item {
-  position: relative;
-  max-width: 500px;
   border: 1px solid #BA8D3B;
   margin: 2rem;
 }
 
-.get-icon {
+.list-icon {
   position: absolute;
   top: 0;
   left: 50%;
@@ -195,7 +191,7 @@ a:hover {
   border-radius: 50%;
 }
 
-.get-icon .fa {
+.list-icon .fa {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -219,6 +215,10 @@ a:hover {
   color: #BA8D3B;
 }
 
+.question {
+  margin: 2rem 0;
+}
+
 .bio {
   margin-top: 2rem;
 }
@@ -233,4 +233,25 @@ a:hover {
   background: #FFF;
   padding: 2rem;
   margin: 2rem 0;
+}
+
+.register .list {
+  margin-top: 2rem;
+}
+
+.icon-price {
+  top: 50%;
+  left: 0;
+}
+
+.icon-price span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #FFF;
+}
+
+.register-info {
+  padding: 1rem 2rem;
 }
