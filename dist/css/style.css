@@ -94,12 +94,13 @@ a:hover {
   font-family: 'Playfair Display', serif;
   font-size: 2.5rem;
   text-align: center;
-  margin-bottom: 2rem;
 }
 
 .text {
+  align-self: flex-start;
   padding-left: 2rem;
   padding-right: 2rem;
+  margin-top: 2rem;
 }
 
 .bkgd-map {
@@ -108,7 +109,12 @@ a:hover {
   background-size: 100%;
 }
 
-.bkgd-arrow:before {
+.bkgd-arrow-up {
+  top: 0;
+  transform: rotate(180deg);
+}
+
+.bkgd-arrow {
   content: '';
   position: absolute;
   bottom: 0;
@@ -120,7 +126,13 @@ a:hover {
   border-color: transparent #FFF;
 }
 
-.hero {
+.highlight {
+  color: #BA8D3B;
+  font-family: 'Calibre-Medium';
+}
+
+.hero,
+.course-content {
   color: #FFF;
 }
 
@@ -129,6 +141,10 @@ a:hover {
   font-size: 3.5rem;
   padding-left: 2rem;
   padding-right: 2rem;
+  text-align: center;
+}
+
+.hero-text {
   text-align: center;
 }
 
@@ -151,4 +167,15 @@ a:hover {
   top: 23%;
   left: 3%;
   transform: translate(23%, -3%);
+}
+
+.course-content-list {
+  background: #FFF;
+  color: #222;
+  padding: 2rem;
+  border-radius: 2px;
+  margin-top: 2rem;
+}
+
+.course-content-text {
 }
