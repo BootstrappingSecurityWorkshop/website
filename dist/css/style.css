@@ -333,11 +333,25 @@ a:hover {
   .title {
     font-size: 2rem;
   }
+
+  .input-email {
+    width: 18rem;
+  }
+
+  .input-submit {
+    margin-top: 2rem;
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 350px) {
   .bio-photo {
     width: 280px;
     height: auto;
+  }
+
+  .header,
+  .footer {
+    font-size: 0.8rem;
   }
 }
