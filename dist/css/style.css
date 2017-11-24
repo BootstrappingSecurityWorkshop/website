@@ -212,3 +212,25 @@ a:hover {
 .attendees-text {
   margin-top: 1rem;
 }
+
+.course .title,
+.outcome .title,
+.george .title {
+  color: #BA8D3B;
+}
+
+.bio {
+  margin-top: 2rem;
+}
+
+.bio-photo {
+  max-width: 300px;
+  margin: 0 4rem;
+}
+
+.bio-text {
+  max-width: 600px;
+  background: #FFF;
+  padding: 2rem;
+  margin: 2rem 0;
+}
