@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="58px" height="141px" viewBox="0 0 58 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="59px" height="142px" viewBox="0 0 59 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
     <title>register-key</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="register-key" transform="translate(1.000000, 1.000000)" stroke="#BA8D3B" stroke-width="0.903225806">
+        <g id="register-key" transform="translate(1.000000, 1.000000)" stroke="#BA8D3B">
             <g id="bar" transform="translate(33.476190, 103.870968)">
                 <path d="M0.452380952,0.451612903 L0.452380952,14 L12.6666667,14 C13.4161959,14 14.0238095,13.393418 14.0238095,12.6451613 L14.0238095,1.80645161 C14.0238095,1.05819486 13.4161959,0.451612903 12.6666667,0.451612903 L0.452380952,0.451612903 Z" id="bar-lrg"></path>
                 <path d="M0.452380952,22.1290323 L0.452380952,35.6774194 L21.7142857,35.6774194 C22.463815,35.6774194 23.0714286,35.0708374 23.0714286,34.3225806 L23.0714286,23.483871 C23.0714286,22.7356142 22.463815,22.1290323 21.7142857,22.1290323 L0.452380952,22.1290323 Z" id="bar-sml"></path>
