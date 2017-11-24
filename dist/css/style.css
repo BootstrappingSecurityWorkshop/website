@@ -306,3 +306,15 @@ a:hover {
 .footer span {
   padding: 0 2rem;
 }
+
+@media (max-width: 800px) {
+  .nav a:not(.button){
+    display: none;
+  }
+}
+
+@media (max-width: 500px) {
+}
+
+@media (max-width: 350px) {
+}
