@@ -8,6 +8,7 @@ import Attendees from './Attendees.jsx';
 import Outcome from './Outcome.jsx';
 import Faqs from './Faqs.jsx';
 import George from './George.jsx';
+import Register from './Register.jsx';
 
 export default class Index extends React.Component {
   constructor(props) {
@@ -27,6 +28,7 @@ export default class Index extends React.Component {
         <Outcome/>
         <Faqs/>
         <George/>
+        <Register/>
       </div>
     );
   }

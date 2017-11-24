@@ -5,9 +5,19 @@ const Faqs = () => {
     <div className="faqs section container column padding">
       <div className="title">FAQs</div>
 
-      <div className="list">
+      <div className="question">
         <div className="highlight">George needs to fill this in?</div>
-        <div className="list-text">George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in.</div>
+        <div className="answer">George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in.</div>
+      </div>
+
+      <div className="question">
+        <div className="highlight">George needs to fill this in?</div>
+        <div className="answer">George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in.</div>
+      </div>
+
+      <div className="question">
+        <div className="highlight">George needs to fill this in?</div>
+        <div className="answer">George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in. George needs to fill this in.</div>
       </div>
     </div>
   );
