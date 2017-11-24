@@ -169,7 +169,7 @@ a:hover {
   transform: translate(23%, -3%);
 }
 
-.course-list {
+.list {
   background: #FFF;
   color: #222;
   padding: 2rem;
@@ -177,5 +177,38 @@ a:hover {
   margin-top: 2rem;
 }
 
-.course-text {
+.get-item {
+  position: relative;
+  max-width: 500px;
+  border: 1px solid #BA8D3B;
+  margin: 2rem;
+}
+
+.get-icon {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 4rem;
+  height: 4rem;
+  background: #BA8D3B;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.get-icon .fa {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #FFF;
+}
+
+.attendees .row {
+  align-items: flex-start;
+  margin-top: 2rem;
+}
+
+.attendees-title,
+.attendees-text {
+  margin-top: 1rem;
 }
