@@ -10,23 +10,23 @@ const Outcome = () => {
       <div className="list">
         <div className="list-text">
           <span className="highlight">• </span>
-          George needs to fill this in. George needs to fill this in.
+          George needs to fill this in. Yeah, I agree.
         </div>
         <div className="list-text">
           <span className="highlight">• </span>
-          George needs to fill this in. George needs to fill this in.
+          George needs to fill this in. Yeah, I agree.
         </div>
         <div className="list-text">
           <span className="highlight">• </span>
-          George needs to fill this in. George needs to fill this in.
+          George needs to fill this in. Yeah, I agree.
         </div>
         <div className="list-text">
           <span className="highlight">• </span>
-          George needs to fill this in. George needs to fill this in.
+          George needs to fill this in. Yeah, I agree.
         </div>
         <div className="list-text">
           <span className="highlight">• </span>
-          George needs to fill this in. George needs to fill this in.
+          George needs to fill this in. Yeah, I agree.
         </div>
       </div>
 
