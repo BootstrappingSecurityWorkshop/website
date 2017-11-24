@@ -1,5 +1,6 @@
 import React from 'react';
 import Nav from './Nav.jsx';
+import Hero from './Hero.jsx';
 
 export default class Index extends React.Component {
   constructor(props) {
@@ -11,6 +12,7 @@ export default class Index extends React.Component {
     return (
       <div id="index" className="container column">
         <Nav/>
+        <Hero/>
       </div>
     );
   }

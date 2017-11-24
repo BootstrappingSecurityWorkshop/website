@@ -30,11 +30,12 @@ body {
   font-size: 1.5rem;
   font-weight: 300;
   color: #222;
-  line-height: 1.5rem;
+  line-height: 1.5;
 }
 
 img {
   display: block;
+  margin: 0 auto;
 }
 
 a {
@@ -49,9 +50,12 @@ a:hover {
 }
 
 .container {
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
+  height: auto;
 }
 
 .column {
@@ -62,6 +66,10 @@ a:hover {
   flex-flow: row wrap;
 }
 
+.section {
+  padding: 6rem 0;
+}
+
 .button {
   border: 1px solid #BA8D3B;
   padding: 0.5rem 1rem;
@@ -70,9 +78,63 @@ a:hover {
 
 .nav {
   justify-content: space-around;
-  width: 100%;
-  height: auto;
   background: #222;
-  font-size: 1.25rem;
+  font-size: 1rem;
   padding: 1rem;
+}
+
+.title {
+  font-size: 2.5rem;
+}
+
+.bkgd-map {
+  background-image: url('../img/bkgd-map.svg');
+  background-color: #222;
+  background-size: 100%;
+}
+
+.bkgd-arrow:before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 0;
+  width: 100vw;
+  border-width: 5rem 50vw 0;
+  border-style: solid;
+  border-color: transparent #FFF;
+}
+
+.hero {
+  color: #FFF;
+}
+
+.hero-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 3.5rem;
+  letter-spacing: 2px;
+}
+
+.hero-subtitle {
+}
+
+.hero > img {
+  margin-top: 2rem;
+}
+
+.register {
+  width: auto;
+  margin-top: 2rem;
+}
+
+.register:active,
+.register:hover {
+  color: #222;
+}
+
+.register > span {
+  position: absolute;
+  top: 23%;
+  left: 3%;
+  transform: translate(23%, -3%);
 }
