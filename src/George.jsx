@@ -2,7 +2,7 @@ import React from 'react';
 
 const George = () => {
   return (
-    <div className="george bkgd-map container column padding">
+    <div id="george" className="george bkgd-map container column padding">
       <div className="bkgd-arrow-up bkgd-arrow"></div>
 
       <div className="title">George Chamales - Security Architect</div>

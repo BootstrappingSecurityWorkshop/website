@@ -2,7 +2,7 @@ import React from 'react';
 
 const Updates = () => {
   return (
-    <div className="updates bkgd-map container column padding">
+    <div id="updates" className="updates bkgd-map container column padding">
       <div className="bkgd-arrow bkgd-arrow-up"></div>
       <div className="title">Get Workshop Updates</div>
       <img src="/img/register-key.svg"/>

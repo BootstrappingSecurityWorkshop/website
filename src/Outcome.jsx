@@ -2,7 +2,7 @@ import React from 'react';
 
 const Outcome = () => {
   return (
-    <div className="outcome bkgd-map container column padding">
+    <div id="outcome" className="outcome bkgd-map container column padding">
       <div className="bkgd-arrow-up bkgd-arrow"></div>
 
       <div className="title">Outcome</div>

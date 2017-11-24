@@ -2,7 +2,7 @@ import React from 'react';
 
 const Security = () => {
   return (
-    <div className="section container column padding">
+    <div id="security" className="section container column padding">
       <div className="title">It's Time to Deal With Security</div>
 
       <div className="text">

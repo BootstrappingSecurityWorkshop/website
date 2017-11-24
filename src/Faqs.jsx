@@ -2,7 +2,7 @@ import React from 'react';
 
 const Faqs = () => {
   return (
-    <div className="faqs section container column padding">
+    <div id="faqs" className="faqs section container column padding">
       <div className="title">FAQs</div>
 
       <div className="question">

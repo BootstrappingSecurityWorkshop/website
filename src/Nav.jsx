@@ -2,7 +2,7 @@ import React from 'react';
 
 const Nav = () => {
   return(
-    <div className="nav container row">
+    <div id="nav" className="nav container row">
       <a className="logo" href="###"><img src="/img/register-key-sml.svg"/></a>
       <a href="#course">Course</a>
       <a href="#attendees">Attendees</a>

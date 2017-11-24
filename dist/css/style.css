@@ -308,8 +308,11 @@ a:hover {
 }
 
 @media (max-width: 800px) {
-  .nav a:not(.button){
+  .nav a:not(.logo):not(.button){
     display: none;
+  }
+  .nav {
+    justify-content: center;
   }
 }
 

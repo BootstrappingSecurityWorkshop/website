@@ -2,7 +2,7 @@ import React from 'react';
 
 const Bootstrap = () => {
   return (
-    <div className="section container column padding">
+    <div id="bootstrap" className="section container column padding">
       <div className="title">Bootstrap Your Security Team</div>
 
       <div className="text">

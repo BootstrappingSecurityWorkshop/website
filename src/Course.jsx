@@ -2,7 +2,7 @@ import React from 'react';
 
 const Course = () => {
   return (
-    <div className="course bkgd-map container column padding">
+    <div id="course" className="course bkgd-map container column padding">
       <div className="bkgd-arrow-up bkgd-arrow"></div>
 
       <div className="title">Course Content</div>

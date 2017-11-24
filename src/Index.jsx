@@ -21,18 +21,18 @@ export default class Index extends React.Component {
   render() {
     return (
       <div id="index" className="container column">
-        <Nav id="nav"/>
-        <Hero id="hero"/>
-        <Security id="security"/>
-        <Bootstrap id="bootstrap"/>
-        <Course id="course"/>
-        <Attendees id="attendees"/>
-        <Outcome id="outcome"/>
-        <Faqs id="faqs"/>
-        <George id="george"/>
-        <Register id="register"/>
-        <Updates id="updates"/>
-        <Footer id="footer"/>
+        <Nav/>
+        <Hero/>
+        <Security/>
+        <Bootstrap/>
+        <Course/>
+        <Attendees/>
+        <Outcome/>
+        <Faqs/>
+        <George/>
+        <Register/>
+        <Updates/>
+        <Footer/>
       </div>
     );
   }

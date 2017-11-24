@@ -2,7 +2,7 @@ import React from 'react';
 
 const Attendees = () => {
   return (
-    <div className="attendees container column padding">
+    <div id="attendees" className="attendees container column padding">
       <div className="title">Attendees Get</div>
 
       <div className="container row">

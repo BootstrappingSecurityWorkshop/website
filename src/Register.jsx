@@ -2,7 +2,7 @@ import React from 'react';
 
 const Register = () => {
   return (
-    <div className="register container column padding">
+    <div id="register" className="register container column padding">
       <div className="title">Course Registration</div>
 
       <div className="container row">
