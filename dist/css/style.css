@@ -132,7 +132,7 @@ a:hover {
 }
 
 .hero,
-.course-content {
+.course {
   color: #FFF;
 }
 
@@ -169,7 +169,7 @@ a:hover {
   transform: translate(23%, -3%);
 }
 
-.course-content-list {
+.course-list {
   background: #FFF;
   color: #222;
   padding: 2rem;
@@ -177,5 +177,5 @@ a:hover {
   margin-top: 2rem;
 }
 
-.course-content-text {
+.course-text {
 }

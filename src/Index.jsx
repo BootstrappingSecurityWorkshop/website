@@ -3,7 +3,8 @@ import Nav from './Nav.jsx';
 import Hero from './Hero.jsx';
 import Security from './Security.jsx';
 import Bootstrap from './Bootstrap.jsx';
-import CourseContent from './CourseContent.jsx';
+import Course from './Course.jsx';
+import Attendees from './Attendees.jsx';
 
 export default class Index extends React.Component {
   constructor(props) {
@@ -18,7 +19,8 @@ export default class Index extends React.Component {
         <Hero/>
         <Security/>
         <Bootstrap/>
-        <CourseContent/>
+        <Course/>
+        <Attendees/>
       </div>
     );
   }
