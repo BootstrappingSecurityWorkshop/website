@@ -7,7 +7,7 @@ const Course = () => {
 
       <div className="title">Course Content</div>
 
-      <div className="course-list">
+      <div className="list">
         <div className="course-title highlight">Strategic</div>
         <div className="course-text">
           <span className="highlight">• </span>
@@ -31,7 +31,7 @@ const Course = () => {
         </div>
       </div>
 
-      <div className="course-list">
+      <div className="list">
         <div className="course-title highlight">Tactical</div>
         <div className="course-text">
           <span className="highlight">• </span>

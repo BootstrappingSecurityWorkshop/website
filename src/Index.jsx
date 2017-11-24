@@ -5,6 +5,7 @@ import Security from './Security.jsx';
 import Bootstrap from './Bootstrap.jsx';
 import Course from './Course.jsx';
 import Attendees from './Attendees.jsx';
+import Outcome from './Outcome.jsx';
 
 export default class Index extends React.Component {
   constructor(props) {
@@ -21,6 +22,7 @@ export default class Index extends React.Component {
         <Bootstrap/>
         <Course/>
         <Attendees/>
+        <Outcome/>
       </div>
     );
   }
