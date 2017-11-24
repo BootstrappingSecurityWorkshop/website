@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="156px" viewBox="0 0 64 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>key</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-998.000000, -644.000000)" stroke="#BA8D3B">
+            <g id="key" transform="translate(999.000000, 645.000000)">
+                <g id="bar" transform="translate(37.000000, 115.000000)">
+                    <path d="M0.5,0.5 L0.5,15.5 L14,15.5 C14.8284271,15.5 15.5,14.8284271 15.5,14 L15.5,2 C15.5,1.17157288 14.8284271,0.5 14,0.5 L0.5,0.5 Z" id="bar-lrg"></path>
+                    <path d="M0.5,24.5 L0.5,39.5 L24,39.5 C24.8284271,39.5 25.5,38.8284271 25.5,38 L25.5,26 C25.5,25.1715729 24.8284271,24.5 24,24.5 L0.5,24.5 Z" id="bar-sml"></path>
+                </g>
+                <g id="body" transform="translate(10.000000, 60.000000)">
+                    <path d="M12.5,15.5 L12.5,93 C12.5,93.8284271 13.1715729,94.5 14,94.5 L27.5,94.5 L27.5,15.5 L12.5,15.5 Z" id="length"></path>
+                    <rect id="width" x="0.5" y="0.5" width="39" height="15" rx="2"></rect>
+                </g>
+                <g id="ring">
+                    <circle id="ring-inner" cx="30" cy="30" r="15"></circle>
+                    <circle id="ring-outer" cx="30" cy="30" r="30"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

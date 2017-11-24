@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="21px" viewBox="0 0 51 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>key copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1289.000000, -823.000000)" stroke="#BA8D3B" stroke-width="0.5">
+            <g id="key-copy-2" transform="translate(1315.000000, 833.000000) rotate(-90.000000) translate(-1315.000000, -833.000000) translate(1305.000000, 808.000000)">
+                <g id="bar" transform="translate(11.746032, 37.096774)">
+                    <path d="M0.25,0.25 L0.25,4.91129032 L4.43420379,4.91129032 C4.65244534,4.91129032 4.82936508,4.73437059 4.82936508,4.51612903 L4.82936508,0.64516129 C4.82936508,0.426919736 4.65244534,0.25 4.43420379,0.25 L0.25,0.25 Z" id="bar-lrg"></path>
+                    <path d="M0.25,7.99193548 L0.25,12.6532258 L7.60880696,12.6532258 C7.82704852,12.6532258 8.00396825,12.4763061 8.00396825,12.2580645 L8.00396825,8.38709677 C8.00396825,8.16885522 7.82704852,7.99193548 7.60880696,7.99193548 L0.25,7.99193548 Z" id="bar-sml"></path>
+                </g>
+                <g id="body" transform="translate(3.174603, 19.354839)">
+                    <path d="M4.05952381,5.08870968 L4.05952381,30 C4.05952381,30.2182416 4.23644355,30.3951613 4.4546851,30.3951613 L8.63888889,30.3951613 L8.63888889,5.08870968 L4.05952381,5.08870968 Z" id="length"></path>
+                    <rect id="width" x="0.25" y="0.25" width="12.1984127" height="4.66129032" rx="0.64516129"></rect>
+                </g>
+                <g id="ring">
+                    <ellipse id="ring-inner" cx="9.52380952" cy="9.67741935" rx="4.76190476" ry="4.83870968"></ellipse>
+                    <ellipse id="ring-outer" cx="9.52380952" cy="9.67741935" rx="9.52380952" ry="9.67741935"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
