@@ -30,7 +30,7 @@ body {
   font-size: 1.5rem;
   font-weight: 300;
   color: #222;
-  line-height: 1.5;
+  line-height: 1.5rem;
 }
 
 img {
@@ -46,4 +46,33 @@ a {
 a:active,
 a:hover {
   color: #BA8D3B;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.column {
+  flex-flow: column;
+}
+
+.row {
+  flex-flow: row wrap;
+}
+
+.button {
+  border: 1px solid #BA8D3B;
+  padding: 0.5rem 1rem;
+  border-radius: 2px;
+}
+
+.nav {
+  justify-content: space-around;
+  width: 100%;
+  height: auto;
+  background: #222;
+  font-size: 1.25rem;
+  padding: 1rem;
 }
