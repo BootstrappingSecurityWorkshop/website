@@ -100,8 +100,8 @@ a:hover {
 
 .text {
   align-self: flex-start;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  /*padding-left: 2rem;*/
+  /*padding-right: 2rem;*/
   margin-top: 2rem;
 }
 
@@ -311,13 +311,33 @@ a:hover {
   .nav a:not(.logo):not(.button){
     display: none;
   }
+
   .nav {
     justify-content: center;
+  }
+
+  .nav a {
+    margin: 0 2rem;
   }
 }
 
 @media (max-width: 500px) {
+  body {
+    font-size: 1.25rem;
+  }
+
+  .hero-title {
+    font-size: 3rem;
+  }
+
+  .title {
+    font-size: 2rem;
+  }
 }
 
 @media (max-width: 350px) {
+  .bio-photo {
+    width: 280px;
+    height: auto;
+  }
 }
