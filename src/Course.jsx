@@ -5,8 +5,8 @@ const Course = () => {
     <div id="course" className="course bkgd-map container column padding">
       <div className="bkgd-arrow-up bkgd-arrow"></div>
 
-      <div className="title">Course Content</div>
-
+      <div className="title">Workshop Content</div>
+      <div className="container row">
       <div className="list">
         <div className="highlight">Strategic</div>
         <div className="list-text">
@@ -19,15 +19,15 @@ const Course = () => {
         </div>
         <div className="list-text">
           <span className="highlight">• </span>
-          Subsidiarity & Security Responsibilities
-        </div>
-        <div className="list-text">
-          <span className="highlight">• </span>
           Incident Prevention, Detection & Response
         </div>
         <div className="list-text">
           <span className="highlight">• </span>
-          Build, Maintain & Enhance Defenses Over Time
+          Speedrunning Compliance Regimes
+        </div>
+        <div className="list-text">
+          <span className="highlight">• </span>
+          Maintaining Your Defenses Over Time
         </div>
       </div>
 
@@ -47,12 +47,13 @@ const Course = () => {
         </div>
         <div className="list-text">
           <span className="highlight">• </span>
-          Physical Security & Zero Trust Networking
+          Securing Change Management & Secrets
         </div>
         <div className="list-text">
           <span className="highlight">• </span>
-          Implementing Your 8-12 Month Security Plan
+          Implementing Your Security Plan
         </div>
+      </div>
       </div>
 
       <div className="bkgd-arrow"></div>

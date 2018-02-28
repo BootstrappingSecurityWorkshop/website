@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div id="hero" className="hero bkgd-map container column padding">
       <div className="hero-title">Bootstrapping Security</div>
-      <div className="hero-text">Defend your company at startup speed.</div>
+      <div className="hero-text">Good security is a competitive advantage.</div>
       <img src="/img/register-key.svg"/>
 
       <a className="register container column" href="###">

@@ -24,7 +24,6 @@ export default class Index extends React.Component {
         <Nav/>
         <Hero/>
         <Security/>
-        <Bootstrap/>
         <Course/>
         <Attendees/>
         <Outcome/>

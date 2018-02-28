@@ -9,7 +9,15 @@ const George = () => {
 
       <div className="bio container row">
         <img className="bio-photo" src="/img/george.jpg"/>
-        <div className="bio-text">I split my time between startups and critical infrastructure companies. Doing so gives me the perspective of security challenges for large, complex, international systems that must remain operational 24x7. I use those experiences to support the growth and development of security inside startups using the latest tools, technologies and platforms. This course is the result ten years of focused research and hands-on experience to find and refine a security methodology to defend complex, always-on infrastructures while enabling the system's builders to continue moving at startup speed.</div>
+        <div className="bio-text">
+        This workshop is the result of ten years of hands-on experience building security into companies ranging from five people to 50,000.  To get here I've worked as 
+        a security engineer, security architect, programmer, dev/ops engineer, penetration tester, auditor and performed countless vulnerability assessments including
+        security reviews of some of the countries largest, most complex critical infrastructure systems.  <br/><br/>
+
+        All of those lessons, trials, errors, breakthroughs, experiments
+        and refinements have led me to the conclusion that the most effective way to build maintainable security in fast-moving tech teams is to bring together the people 
+        responsible for those technologies, put them in charge of their own security, and give them a clear path to follow.  This workshop is the path. 
+        </div>
       </div>
 
       <div className="bkgd-arrow"></div>

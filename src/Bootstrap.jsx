@@ -3,15 +3,17 @@ import React from 'react';
 const Bootstrap = () => {
   return (
     <div id="bootstrap" className="section container column padding">
-      <div className="title">Bootstrap Your Security Team</div>
-
-      <div className="text">
-        You can use your existing team to build security that enhances operations, increases your competitive edge and provides for a robust defense.
-        Your company is filled with experts in your product's technologies - they're more than capable of securing those technologies.  What's missing is the strategy for prioritizing, integrating, maintaining your company's security capabilities.
-      </div>
-
-      <div className="text">
-        In this course, you send two technical team members to attend the training (one senior, one mid-junior level).  Those two people will become the core of your internal security effort.  They spend an intensive day learning startup security strategy and tactics and writing a go-forward security plan.  They return ready to build efficient, maintainable security inside your product and your company.
+      <div className="title">Here's how it works</div>
+        <div className="text">
+      You send five members of your technical team to our intense, single day workshop.  They learn how to select, prioritize, integrate, and maintain your company's security capabilities. They come back with a tailored roadmap to bake security into your product along with tools they need to meet and exceed the toughest security requirements.
+        </div>
+        <div className="text">
+      After the workshop:
+        <ul>
+          <li>Your sales team handles customer security requirements internally - providing strong answers that give you a competitive advantage.</li>
+          <li>Your engineers bake security and compliance requirements into their day-to-day operations - good security becomes the rule, not the exception.</li>
+          <li>Your teams use security as a way to make your product and services more stable, robust and efficient - security is never a sunk-cost, it's a net positive. </li>
+        </ul>
       </div>
     </div>
   );
