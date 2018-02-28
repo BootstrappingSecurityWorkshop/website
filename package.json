@@ -4,7 +4,8 @@
   "description": "George Chamales",
   "main": "index.html",
   "scripts": {
-    "build": "webpack --watch"
+    "build": "webpack",
+    "debug": "webpack --watch"
   },
   "repository": {
     "type": "git",

@@ -3,9 +3,7 @@ import React from 'react';
 const Register = () => {
   return (
     <div id="register" className="register container column padding">
-      <div className="title">Course Registration</div>
-
-      <div className="container row">
+      <div className="title">Workshop Registration</div>
         <div className="list">
           <div className="list-icon icon-price">
             <span>$999</span>
@@ -40,7 +38,6 @@ const Register = () => {
             <div className="register-text">Event Name</div>
             <div className="register-text">San Francisco, CA</div>
           </div>
-        </div>
       </div>
     </div>
   );
