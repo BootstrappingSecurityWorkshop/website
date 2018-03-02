@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Course = () => {
+const Workshop = () => {
   return (
-    <div id="course" className="course bkgd-map container column padding">
+    <div id="workshop" className="course bkgd-map container column padding">
       <div className="bkgd-arrow-up bkgd-arrow"></div>
 
       <div className="title">Workshop Content</div>
@@ -61,4 +61,4 @@ const Course = () => {
   );
 };
 
-export default Course;
+export default Workshop;

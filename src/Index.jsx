@@ -2,10 +2,9 @@ import React from 'react';
 import Nav from './Nav.jsx';
 import Hero from './Hero.jsx';
 import Security from './Security.jsx';
-import Bootstrap from './Bootstrap.jsx';
-import Course from './Course.jsx';
-import Attendees from './Attendees.jsx';
-import Outcome from './Outcome.jsx';
+import Workshop from './Workshop.jsx';
+import Outcomes from './Outcomes.jsx';
+import Testimonials from './Testimonials.jsx';
 import Faqs from './Faqs.jsx';
 import George from './George.jsx';
 import Register from './Register.jsx';
@@ -24,9 +23,9 @@ export default class Index extends React.Component {
         <Nav/>
         <Hero/>
         <Security/>
-        <Course/>
-        <Attendees/>
-        <Outcome/>
+        <Workshop/>
+        <Outcomes/>
+        <Testimonials/>
         <Faqs/>
         <George/>
         <Register/>

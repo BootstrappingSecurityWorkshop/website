@@ -15,7 +15,7 @@ const George = () => {
         security reviews of some of the countries largest, most complex critical infrastructure systems.  <br/><br/>
 
         All of those lessons, trials, errors, breakthroughs, experiments
-        and refinements have led me to the conclusion that the most effective way to build maintainable security in fast-moving tech teams is to bring together the people 
+        and refinements have led me to the conclusion that the most effective way to build maintainable security in fast-moving teams is to bring together the people 
         responsible for those technologies, put them in charge of their own security, and give them a clear path to follow.  This workshop is the path. 
         </div>
       </div>

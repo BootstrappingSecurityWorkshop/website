@@ -20,10 +20,10 @@ const Security = () => {
       <div className="text"></div>
       <div className="title">How it works</div>
       <div className="text">
-        You send a team of five engineers to our intense, single-day workshop.  There, they receive a crash course in building and maintaining security inside of fast-moving tech companies.  They return with a prioritized go-forward plan to build out your security, comply with regulations, and meet even the strictest customer security requirements.
+        You send a team of five engineers to our intense, single-day workshop.  There, they receive a crash course in building and maintaining security inside of fast-moving companies.  They return with a prioritized go-forward plan to build out your security, comply with regulations, and meet even the strictest customer security requirements.
        </div>
 
-      <a className="register container column" href="###">
+      <a className="register container column" href="#register">
         <span>Register</span>
         <img src="/img/register-btn.svg"/>
       </a>

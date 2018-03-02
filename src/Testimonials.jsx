@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Outcome = () => {
+const Testimonials = () => {
   return (
-    <div id="outcome" className="outcome bkgd-map container column padding">
+    <div id="testimonials" className="outcome bkgd-map container column padding">
       <div className="bkgd-arrow-up bkgd-arrow"></div>
       
       <div className="title">Testimonials</div>
@@ -36,4 +36,4 @@ const Outcome = () => {
   );
 };
 
-export default Outcome;
+export default Testimonials;

@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Attendees = () => {
+const Outcomes = () => {
   return (
-    <div id="attendees" className="attendees container column padding">
+    <div id="outcomes" className="attendees container column padding">
       <div className="title">Your Team Returns With</div>
 
       <div className="container row">
@@ -37,4 +37,4 @@ const Attendees = () => {
   );
 };
 
-export default Attendees;
+export default Outcomes;
