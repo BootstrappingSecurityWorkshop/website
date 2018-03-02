@@ -43,11 +43,11 @@ const Workshop = () => {
         </div>
         <div className="list-text">
           <span className="highlight">• </span>
-          Disaster Response, Backup & Recovery
+          Backup, Recovery & Secrets Management
         </div>
         <div className="list-text">
           <span className="highlight">• </span>
-          Securing Change Management & Secrets
+          Securing Change Management Pipelines
         </div>
         <div className="list-text">
           <span className="highlight">• </span>

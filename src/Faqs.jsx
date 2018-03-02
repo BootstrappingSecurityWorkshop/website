@@ -17,7 +17,7 @@ const Faqs = () => {
 
       <div className="question">
         <div className="highlight">Why send a team of five to the workshop?</div>
-        <div className="answer">The people you send to the workshop will work together to identify, distribute and plan out security across the organization.  Getting them all on the same page at the same time is the most effective way to make that happen.  Security is a team sport.  </div>
+        <div className="answer">Security is a team sport. The people you send to the workshop will work together to identify, distribute and plan out security across the organization.  Getting them all on the same page at the same time is the most effective way to make that happen. Our one exception to this rule is if you have less than five people in your company.  If you're that proactive about security - we definitely want you in our workshop.</div>
       </div>
 
       <div className="question">
