@@ -12,7 +12,7 @@ const Testimonials = () => {
         <div className="list">
           <div className="list-text">
             <div className="container row">
-              <img src="/img/george-testing.jpg"/>
+              <div className="image-cropper"><img src="/img/george-testing.jpg"/></div>
             </div>
             <div className="container row">
               George Chamales - Some guy.

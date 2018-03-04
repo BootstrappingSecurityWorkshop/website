@@ -218,6 +218,21 @@ a:hover {
   color: #BA8D3B;
 }
 
+.image-cropper {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.img-testimonial {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
+
 .question {
   margin: 2rem 0;
 }

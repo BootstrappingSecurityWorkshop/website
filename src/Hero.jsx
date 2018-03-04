@@ -8,7 +8,7 @@ const Hero = () => {
 
       <a className="register container column" href="#register">
         <span>Register</span>
-        <img src="/img/register-btn.png"/>
+        <img src="/img/register-btn-tp.png"/>
       </a>
 
       <div className="bkgd-arrow"></div>

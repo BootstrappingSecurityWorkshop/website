@@ -41,7 +41,7 @@ const Register = () => {
           </div>
         </div>
         </div>
-        Want to get started sooner or not in the area?  We organize private workshops. <a className="register-a" href="mailto:private@bootstrappingsecurity.com">Contact us</a>.
+        Want to get started sooner or not in the area?  We organize private workshops. <a className="register-a" href="mailto:private@bootstrappingsecurity.com">Contact us</a>
     </div>
   );
 };
