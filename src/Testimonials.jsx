@@ -11,8 +11,15 @@ const Testimonials = () => {
 
         <div className="list">
           <div className="list-text">
-            <span className="highlight">• </span>
-            George needs to fill this in
+            <div className="container row">
+              <img src="/img/george-testing.jpg"/>
+            </div>
+            <div className="container row">
+              George Chamales - Some guy.
+            </div>
+            <div className="container row">
+              I have never cleared customer security requirements this fast.  Ever.  George's help is a huge part of that.
+            </div>
           </div>
         </div>
 

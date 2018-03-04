@@ -17,6 +17,10 @@ export default class Index extends React.Component {
     this.state = {};
   }
 
+  componentDidMount(){
+    document.title = "Bootstrapping Security Workshop"
+  }
+
   render() {
     return (
       <div id="index" className="container column">

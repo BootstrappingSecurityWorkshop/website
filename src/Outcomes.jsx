@@ -9,7 +9,7 @@ const Outcomes = () => {
         <div className="list">
           <div className="list-icon"><i className="fa fa-fw fa-key"></i></div>
           <div className="attendees-title highlight">The Best Security Policy Ever Written</div>
-          <div className="attendees-text">Built and refined over seven years and tailored to your team during the workshop.  
+          <div className="attendees-text">Built and refined over seven years and tailored to your team.  
           The policy has been crafted to impress your customers, appease your auditors and make your engineers say, "Huh, that's all perfectly reasonable".</div>
         </div>
         <div className="list">

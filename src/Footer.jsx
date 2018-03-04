@@ -3,9 +3,9 @@ import React from 'react';
 const Footer = () => {
   return(
     <div id="footer" className="footer container row">
-      <div>&copy; George Chamales</div>
+      <div>&copy; Rogue Genius LLC</div>
       <span>|</span>
-      <a href="www.v1x1e.com">Design by Vixie</a>
+      <a href="http://www.v1x1e.com/">Design by Vixie</a>
     </div>
   );
 };
