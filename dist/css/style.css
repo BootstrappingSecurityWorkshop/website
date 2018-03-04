@@ -219,8 +219,8 @@ a:hover {
 }
 
 .image-cropper {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   position: relative;
   overflow: hidden;
   border-radius: 50%;
@@ -230,7 +230,7 @@ a:hover {
     display: inline;
     margin: 0 auto;
     height: 100%;
-    width: auto;
+    width: 200px;
 }
 
 .question {

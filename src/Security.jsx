@@ -25,7 +25,7 @@ const Security = () => {
 
       <a className="register container column" href="#register">
         <span>Register</span>
-        <img src="/img/register-btn-tp.svg"/>
+        <img src="/img/register-btn-tp.png"/>
       </a>
       
       </div>
