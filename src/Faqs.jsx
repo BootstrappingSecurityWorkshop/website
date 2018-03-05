@@ -16,8 +16,10 @@ const Faqs = () => {
       </div>
 
       <div className="question">
-        <div className="highlight">Why send a team of five to the workshop?</div>
-        <div className="answer">Security is a team sport. The people you send to the workshop will work together to identify, distribute and plan out security across the organization.  Getting them all on the same page at the same time is the most effective way to make that happen. Our one exception to this rule is if you have less than five people in your company.  If you're that proactive about security - we definitely want you in our workshop.</div>
+        <div className="highlight">Which five people should attend the workshop?</div>
+        <div className="answer">Technical leadership and decision-makers, people with a thorough knowledge of how your product works and the authority to make changes that bake security into day-to-day operations.  
+        The workshop's designed to accomodate busy people - if someone needs to step out for a meeting or phone call, the rest of the group can cover for them (security is a team sport).  <br/><br/>
+        The one exception to the five-person rule:  if your company has less than five people and you're so proactive about security that you want to attend - please <a className="register-a" href="mailto:business@bootstrappingsecurity.com">contact us</a>, we'd love to have you.</div>
       </div>
 
       <div className="question">
