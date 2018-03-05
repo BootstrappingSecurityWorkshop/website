@@ -233,6 +233,15 @@ a:hover {
     width: 200px;
 }
 
+.testimonial-name {
+  font-weight: bold;
+}
+
+.testimonial-txt {
+    text-align: center;
+    font-style: italic;
+}
+
 .question {
   margin: 2rem 0;
 }

@@ -14,13 +14,13 @@ const Testimonials = () => {
             <div className="container row">
               <div className="image-cropper"><img className="image-testimonial" src="/img/dstar.jpg"/></div>
             </div>
-            <div className="container row">
+            <div className="container row testimonial-name">
               David Starr
             </div>
             <div className="container row highlight">
               Strategic Partnerships Manager - TruSTAR
             </div>
-            <div className="container row">
+            <div className="container row testimonial-txt">
               I have never cleared customer security requirements this fast.  Ever.  George's help is a huge part of that.
             </div>
           </div>
@@ -31,13 +31,13 @@ const Testimonials = () => {
             <div className="container row">
               <div className="image-cropper"><img className="image-testimonial" src="/img/davidg.jpg"/></div>
             </div>
-            <div className="container row">
+            <div className="container row testimonial-name">
               David Guaraglia
             </div>
             <div className="container row highlight">
               CTO - Virgo Surgical Solutions
             </div>
-            <div className="container row">
+            <div className="container row testimonial-txt">
               I have never cleared customer security requirements this fast.  Ever.  George's help is a huge part of that.
             </div>
           </div>
@@ -48,13 +48,13 @@ const Testimonials = () => {
             <div className="container row">
               <div className="image-cropper"><img className="image-testimonial" src="/img/george-testing.jpg"/></div>
             </div>
-            <div className="container row">
+            <div className="container row testimonial-name">
               George Chamales
             </div>
             <div className="container row highlight">
               Job Title - Company
             </div>
-            <div className="container row">
+            <div className="container row testimonial-txt">
               I have never cleared customer security requirements this fast.  Ever.  George's help is a huge part of that.
             </div>
           </div>

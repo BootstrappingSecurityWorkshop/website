@@ -8,7 +8,7 @@ const George = () => {
       <div className="title">George Chamales</div>
 
       <div className="bio container row">
-        <img className="bio-photo" src="/img/george.jpg"/>
+        <div className="image-cropper"><img className="image-testimonial" src="/img/george.jpg"/></div>
         <div className="bio-text">
         This workshop is the result of ten years of hands-on experience building security into companies ranging from five people to 50,000.  To get here I've worked as 
         a security engineer, security architect, programmer, dev/ops engineer, penetration tester, auditor and performed countless vulnerability assessments including
