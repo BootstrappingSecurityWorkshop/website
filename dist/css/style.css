@@ -202,6 +202,10 @@ a:hover {
   color: #FFF;
 }
 
+.list-center {
+  text-align: center;
+}
+
 .attendees .row {
   align-items: flex-start;
   margin-top: 2rem;
@@ -264,6 +268,11 @@ a:hover {
 
 .register .list {
   margin-top: 2rem;
+}
+
+.register-hidden {
+  position: absolute;
+  left: -5000px;
 }
 
 .icon-price {

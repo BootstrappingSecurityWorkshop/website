@@ -25,7 +25,7 @@ const Register = () => {
           <div className="register-info">
             <div className="register-title highlight">June 13, 2018</div>
             <div className="register-text">San Francisco, CA</div>
-            <div className="register-text"><a className="register-a" href="">Register</a></div>
+            <div className="register-text"><a className="register-a" href="https://www.eventbrite.com/e/bootstrapping-security-workshop-sf-613-tickets-43883418486">Register</a></div>
           </div>
         </div>
 
@@ -37,11 +37,15 @@ const Register = () => {
           <div className="register-info">
             <div className="register-title highlight">August 15, 2018</div>
             <div className="register-text">San Francisco, CA</div>
-            <div className="register-text"><a className="register-a" href="">Register</a></div>
+            <div className="register-text"><a className="register-a" href="https://www.eventbrite.com/e/bootstrapping-security-workshop-sf-815-tickets-43883521795">Register</a></div>
           </div>
         </div>
         </div>
-        Want to get started sooner or not in the area?  We organize private workshops. <a className="register-a" href="mailto:private@bootstrappingsecurity.com">Contact us</a>
+      <div className="container row list-center">
+        <div ClassName="list list-center">
+          Want to get started sooner or not in the area?  <br/> We organize private workshops. <br/><a className="register-a" href="mailto:business@bootstrappingsecurity.com">Contact us</a>
+        </div>
+      </div>
     </div>
   );
 };
