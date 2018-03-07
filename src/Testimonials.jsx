@@ -15,10 +15,10 @@ const Testimonials = () => {
               <div className="image-cropper"><img className="image-testimonial" src="/img/george-testing.jpg"/></div>
             </div>
             <div className="container row testimonial-name">
-              David Starr
+              Somebody Awesome
             </div>
             <div className="container row highlight">
-              Strategic Partnerships Manager - TruSTAR
+              Job Title - Company
             </div>
             <div className="container row testimonial-txt">
               Insert a testimonial here once there's a testimonial to add here.  It should be about this long.  Give or take.
@@ -32,10 +32,10 @@ const Testimonials = () => {
               <div className="image-cropper"><img className="image-testimonial" src="/img/george-testing.jpg"/></div>
             </div>
             <div className="container row testimonial-name">
-              David Guaraglia
+              Somebody Awesome
             </div>
             <div className="container row highlight">
-              CTO - Virgo Surgical Solutions
+              Job Title - Company
             </div>
             <div className="container row testimonial-txt">
               Insert a testimonial here once there's a testimonial to add here.  It should be about this long.  Give or take.
