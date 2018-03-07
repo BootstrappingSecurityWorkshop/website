@@ -12,7 +12,7 @@ const Testimonials = () => {
         <div className="list">
           <div className="list-text">
             <div className="container row">
-              <div className="image-cropper"><img className="image-testimonial" src="/img/george-testing.jpg"/></div>
+              <div className="image-cropper"><img className="image-testimonial" src="/img/silhouette.jpg"/></div>
             </div>
             <div className="container row testimonial-name">
               Somebody Awesome
@@ -29,7 +29,7 @@ const Testimonials = () => {
         <div className="list">
           <div className="list-text">
             <div className="container row">
-              <div className="image-cropper"><img className="image-testimonial" src="/img/george-testing.jpg"/></div>
+              <div className="image-cropper"><img className="image-testimonial" src="/img/silhouette.jpg"/></div>
             </div>
             <div className="container row testimonial-name">
               Somebody Awesome
@@ -46,7 +46,7 @@ const Testimonials = () => {
         <div className="list">
           <div className="list-text">
             <div className="container row">
-              <div className="image-cropper"><img className="image-testimonial" src="/img/george-testing.jpg"/></div>
+              <div className="image-cropper"><img className="image-testimonial" src="/img/silhouette.jpg"/></div>
             </div>
             <div className="container row testimonial-name">
               George Chamales
