@@ -23,8 +23,8 @@ const Outcomes = () => {
       <div className="container row">
         <div className="list">
           <div className="list-icon"><i className="fa fa-fw fa-key"></i></div>
-          <div className="attendees-title highlight">Presentations & Documentation Templates</div>
-          <div className="attendees-text">All course materials are ready to be re-used, re-mixed, and re-arranged. Templates for common security documentation including threat assessment, security profiles, backup / recovery, and disaster response.</div>
+          <div className="attendees-title highlight">Free Yearly Security Training...Forever</div>
+          <div className="attendees-text">Never pay for outside security training ever again.  Our yearly online training is fast, hilarious, informative, and will more than check the box for any compliance requirements that you need it for.</div>
         </div>
         <div className="list">
           <div className="list-icon"><i className="fa fa-fw fa-key"></i></div>

@@ -42,7 +42,7 @@ const Register = () => {
         </div>
         </div>
       <div className="container row list-center">
-        <div ClassName="list list-center">
+        <div className="list list-center">
           Want to get started sooner or not in the area?  <br/> We organize private workshops. <br/><a className="register-a" href="mailto:business@bootstrappingsecurity.com">Contact us</a>
         </div>
       </div>
