@@ -7,7 +7,7 @@ const Updates = () => {
       <img src="/img/register-key.svg"/>
       <div className="title">Get Workshop Updates</div>
       <br/>
-      <form className="signup container row" method="post" name="updates" action="https://roguegenius.us17.list-manage.com/subscribe/post?u=41ebf4feab5cfe579928cf331&amp;id=87d50e2a09" target="_blank" noVlidate>
+      <form className="signup container row" method="post" name="updates" action="https://roguegenius.us17.list-manage.com/subscribe/post?u=41ebf4feab5cfe579928cf331&amp;id=87d50e2a09" target="_blank" noValidate>
         <input className="input-email" type="email" name="EMAIL" placeholder="Type your email here!"/>
         <input className="input-submit" type="submit" value="Submit"/>
         <div className="register-hidden" aria-hidden="true"><input type="text" name="b_41ebf4feab5cfe579928cf331_87d50e2a09" tabIndex="-1" value=""/></div>

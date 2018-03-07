@@ -12,7 +12,7 @@ const Testimonials = () => {
         <div className="list">
           <div className="list-text">
             <div className="container row">
-              <div className="image-cropper"><img className="image-testimonial" src="/img/dstar.jpg"/></div>
+              <div className="image-cropper"><img className="image-testimonial" src="/img/george-testing.jpg"/></div>
             </div>
             <div className="container row testimonial-name">
               David Starr
@@ -21,7 +21,7 @@ const Testimonials = () => {
               Strategic Partnerships Manager - TruSTAR
             </div>
             <div className="container row testimonial-txt">
-              I have never cleared customer security requirements this fast.  Ever.  George's help is a huge part of that.
+              Insert a testimonial here once there's a testimonial to add here.  It should be about this long.  Give or take.
             </div>
           </div>
         </div>
@@ -29,7 +29,7 @@ const Testimonials = () => {
         <div className="list">
           <div className="list-text">
             <div className="container row">
-              <div className="image-cropper"><img className="image-testimonial" src="/img/davidg.jpg"/></div>
+              <div className="image-cropper"><img className="image-testimonial" src="/img/george-testing.jpg"/></div>
             </div>
             <div className="container row testimonial-name">
               David Guaraglia
@@ -38,7 +38,7 @@ const Testimonials = () => {
               CTO - Virgo Surgical Solutions
             </div>
             <div className="container row testimonial-txt">
-              I have never cleared customer security requirements this fast.  Ever.  George's help is a huge part of that.
+              Insert a testimonial here once there's a testimonial to add here.  It should be about this long.  Give or take.
             </div>
           </div>
         </div>
@@ -55,7 +55,7 @@ const Testimonials = () => {
               Job Title - Company
             </div>
             <div className="container row testimonial-txt">
-              I have never cleared customer security requirements this fast.  Ever.  George's help is a huge part of that.
+              Insert a testimonial here once there's a testimonial to add here.  It should be about this long.  Give or take.
             </div>
           </div>
         </div>
