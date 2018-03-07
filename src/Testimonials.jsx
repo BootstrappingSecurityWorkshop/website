@@ -49,7 +49,7 @@ const Testimonials = () => {
               <div className="image-cropper"><img className="image-testimonial" src="/img/silhouette.jpg"/></div>
             </div>
             <div className="container row testimonial-name">
-              George Chamales
+              Somebody Awesome
             </div>
             <div className="container row highlight">
               Job Title - Company
