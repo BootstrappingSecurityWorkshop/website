@@ -5,7 +5,7 @@ This is a site for George Chamales.
 [Victoria Chang](www.v1x1e.com)
 
 ## Usage
-Visit [www.roguegenius.com](http://www.roguegenius.com)!
+Visit [bootstrappingsecurity.com](http://bootstrappingsecurity.com)!
 
 ## Requirements
 - React
