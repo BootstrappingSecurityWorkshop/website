@@ -12,16 +12,16 @@ const Testimonials = () => {
         <div className="list">
           <div className="list-text">
             <div className="container row">
-              <div className="image-cropper"><img className="image-testimonial" src="/img/silhouette.jpg"/></div>
+              <div className="image-cropper"><img className="image-testimonial" src="/img/dstar.jpg"/></div>
             </div>
             <div className="container row testimonial-name">
-              Somebody Awesome
+              David Starr
             </div>
-            <div className="container row highlight">
-              Job Title - Company
+            <div className="container row highlight testimonial-txt">
+              Strategic Partnerships Manager - TruSTAR 
             </div>
             <div className="container row testimonial-txt">
-              Insert a testimonial here once there's a testimonial to add here.  It should be about this long.  Give or take.
+              George’s knowledge has been instrumental to secure business and let our partners know they can trust us and our technology.<br/><br/>
             </div>
           </div>
         </div>
@@ -29,16 +29,16 @@ const Testimonials = () => {
         <div className="list">
           <div className="list-text">
             <div className="container row">
-              <div className="image-cropper"><img className="image-testimonial" src="/img/silhouette.jpg"/></div>
+              <div className="image-cropper"><img className="image-testimonial" src="/img/davidg.jpg"/></div>
             </div>
             <div className="container row testimonial-name">
-              Somebody Awesome
+              David Guaraglia
             </div>
-            <div className="container row highlight">
-              Job Title - Company
+            <div className="container row highlight testimonial-txt">
+              Virgo Surgical Video Solutions - CTO
             </div>
             <div className="container row testimonial-txt">
-              Insert a testimonial here once there's a testimonial to add here.  It should be about this long.  Give or take.
+              I used to think that security was something that could only be done by security people.  This workshop changed that.  Now we understand what our team needs to do and we're doing it.
             </div>
           </div>
         </div>
@@ -46,16 +46,16 @@ const Testimonials = () => {
         <div className="list">
           <div className="list-text">
             <div className="container row">
-              <div className="image-cropper"><img className="image-testimonial" src="/img/silhouette.jpg"/></div>
+              <div className="image-cropper"><img className="image-testimonial" src="/img/richard.jpg"/></div>
             </div>
             <div className="container row testimonial-name">
-              Somebody Awesome
+              Richard Arnold
             </div>
-            <div className="container row highlight">
-              Job Title - Company
+            <div className="container row highlight testimonial-txt">
+              Board Member and Advisor to Early Stage Technology Companies
             </div>
             <div className="container row testimonial-txt">
-              Insert a testimonial here once there's a testimonial to add here.  It should be about this long.  Give or take.
+              George knows more about information system security than anyone I have met in all my travels around the industry.
             </div>
           </div>
         </div>
