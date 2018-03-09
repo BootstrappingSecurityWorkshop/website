@@ -24,7 +24,7 @@ const Outcomes = () => {
         <div className="list">
           <div className="list-icon"><i className="fa fa-fw fa-key"></i></div>
           <div className="attendees-title highlight">Free Yearly Security Training...Forever</div>
-          <div className="attendees-text">Never pay for outside security training ever again.  Our yearly online training is fast, hilarious, informative, and will more than check the box for any compliance requirements that you need it for.</div>
+          <div className="attendees-text">Companies who attend our workshop will never pay for outside security training.  We provide your team yearly training that is fast-paced, interesting, informative, and driven by the latest trends and topics in computer security.</div>
         </div>
         <div className="list">
           <div className="list-icon"><i className="fa fa-fw fa-key"></i></div>
