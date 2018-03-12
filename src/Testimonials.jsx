@@ -18,7 +18,7 @@ const Testimonials = () => {
               David Starr
             </div>
             <div className="container row highlight testimonial-txt">
-              Strategic Partnerships Manager - TruSTAR 
+              Strategic Partnerships Manager <br/>TruSTAR 
             </div>
             <div className="container row testimonial-txt">
               George’s knowledge has been instrumental to secure business and let our partners know they can trust us and our technology.<br/><br/>
@@ -35,7 +35,7 @@ const Testimonials = () => {
               David Guaraglia
             </div>
             <div className="container row highlight testimonial-txt">
-              Virgo Surgical Video Solutions - CTO
+               CTO<br/>Virgo Surgical Video Solutions
             </div>
             <div className="container row testimonial-txt">
               I used to think that security was something that could only be done by security people.  This workshop changed that.  Now we understand what our team needs to do and we're doing it.
