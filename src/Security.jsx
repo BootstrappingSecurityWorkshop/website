@@ -14,7 +14,7 @@ const Security = () => {
       </div>
 
       <div className="text">
-      Your teams use security as a way to make your product and services more stable, robust and efficient - security is never a sunk-cost, it's a net positive. 
+      Your teams use security as a way to make your product and services more stable, robust and efficient - security isn't a sunk-cost, it's a net positive. 
       </div>
       
       <div className="text"></div>

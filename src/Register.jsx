@@ -43,7 +43,8 @@ const Register = () => {
         </div>
       <div className="container row list-center">
         <div className="list list-center">
-          Want to get started sooner or not in the area?  <br/> We organize private workshops. <br/><a className="register-a" href="mailto:business@bootstrappingsecurity.com">Contact us</a>
+        We select venues that enable multiple teams from multiple organizations to work independendently and simultaneously.  The rates above are for single teams of five. <br/><br/>
+Want to get started sooner or not in the area?  <br/> We organize private workshops. <br/><a className="register-a" href="mailto:business@bootstrappingsecurity.com">Contact us</a>
         </div>
       </div>
     </div>

@@ -9,7 +9,7 @@ const Testimonials = () => {
 
       <div className="container row">
 
-        <div className="list">
+        <div className="list-test">
           <div className="list-text">
             <div className="container row">
               <div className="image-cropper"><img className="image-testimonial" src="/img/dstar.jpg"/></div>
@@ -26,7 +26,7 @@ const Testimonials = () => {
           </div>
         </div>
 
-        <div className="list">
+        <div className="list-test">
           <div className="list-text">
             <div className="container row">
               <div className="image-cropper"><img className="image-testimonial" src="/img/davidg.jpg"/></div>
@@ -43,7 +43,7 @@ const Testimonials = () => {
           </div>
         </div>
 
-        <div className="list">
+        <div className="list-test">
           <div className="list-text">
             <div className="container row">
               <div className="image-cropper"><img className="image-testimonial" src="/img/richard.jpg"/></div>
@@ -52,10 +52,10 @@ const Testimonials = () => {
               Richard Arnold
             </div>
             <div className="container row highlight testimonial-txt">
-              Board Member and Advisor to Early Stage Technology Companies
+              Board Member & Advisor to Early Stage Technology Companies
             </div>
             <div className="container row testimonial-txt">
-              George knows more about information system security than anyone I have met in all my travels around the industry.
+              George knows more about information system security than anyone I have met in all my travels around the industry.<br/><br/>
             </div>
           </div>
         </div>

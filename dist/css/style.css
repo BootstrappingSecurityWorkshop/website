@@ -183,6 +183,17 @@ a:hover {
   margin: 2rem;
 }
 
+.list-test {
+    position: relative;
+  background: #FFF;
+  color: #222;
+  padding: 2rem;
+  border-radius: 2px;
+  border: 1px solid #BA8D3B;
+  margin: 2rem;
+  max-width: 300px;
+}
+
 .list-icon {
   position: absolute;
   top: 0;
@@ -223,8 +234,8 @@ a:hover {
 }
 
 .image-cropper {
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   position: relative;
   overflow: hidden;
   border-radius: 50%;
@@ -234,7 +245,7 @@ a:hover {
     display: inline;
     margin: 0 auto;
     height: 100%;
-    width: 200px;
+    width: 100px;
 }
 
 .testimonial-name {
@@ -244,6 +255,7 @@ a:hover {
 .testimonial-txt {
     text-align: center;
     font-style: italic;
+    font-size: 0.75em;
 }
 
 .question {
