@@ -23,7 +23,7 @@ const Outcomes = () => {
       <div className="container row">
         <div className="list">
           <div className="list-icon"><i className="fa fa-fw fa-key"></i></div>
-          <div className="attendees-title highlight">The Bootstrappers Guide to Security</div>
+          <div className="attendees-title highlight">The Bootstrapper's Guide to Security</div>
           <div className="attendees-text">A collection of how-tos you and the rest of your company can reference as you build out your security.  Includes templates for threat assessment, security profiles, business continuity & disaster response.</div>
         </div>
         <div className="list">
