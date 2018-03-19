@@ -11,7 +11,7 @@ const Faqs = () => {
       </div>
 
       <div className="question">
-        <div className="highlight">We have to meet compliance for SOC2 / HIPAA / GDPR, will this help?</div>
+        <div className="highlight">We have to meet compliance for SOC2 / HIPAA / GDPR / PCI, will this help?</div>
         <div className="answer">Absolutely.  The workshop's been built from the ground up to meet these requirements.  As part of the workshop the team learns how to organize compliance requirements, deal with auditors, and maintain security requirements over time so re-audits are a breeze.</div>
       </div>
 
