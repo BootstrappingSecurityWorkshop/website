@@ -11,18 +11,6 @@ const Register = () => {
           </div>
 
           <div className="register-info">
-            <div className="register-title highlight">April 25, 2018</div>
-            <div className="register-text">San Francisco, CA</div>
-            <div className="register-text"><a className="register-a" href="https://www.eventbrite.com/e/bootstrapping-security-workshop-sf-425-tickets-44046527349">Register</a></div>
-          </div>
-        </div>
-
-        <div className="list">
-          <div className="list-icon icon-price">
-            <span>$8k</span>
-          </div>
-
-          <div className="register-info">
             <div className="register-title highlight">June 13, 2018</div>
             <div className="register-text">San Francisco, CA</div>
             <div className="register-text"><a className="register-a" href="https://www.eventbrite.com/e/bootstrapping-security-workshop-sf-613-tickets-44047063954">Register</a></div>
@@ -40,6 +28,18 @@ const Register = () => {
             <div className="register-text"><a className="register-a" href="https://www.eventbrite.com/e/bootstrapping-security-workshop-sf-815-tickets-44047103071">Register</a></div>
           </div>
         </div>
+        </div>
+
+        <div className="list">
+          <div className="list-icon icon-price">
+            <span>$8k</span>
+          </div>
+
+          <div className="register-info">
+            <div className="register-title highlight">October 17, 2018</div>
+            <div className="register-text">San Francisco, CA</div>
+            <div className="register-text"><a className="register-a" href="https://www.eventbrite.com/e/bootstrapping-security-workshop-sf-1017-tickets-44434798679">Register</a></div>
+          </div>
         </div>
       <div className="container row list-center">
         <div className="list list-center">
