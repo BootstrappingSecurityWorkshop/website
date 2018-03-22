@@ -28,9 +28,8 @@ const Register = () => {
             <div className="register-text"><a className="register-a" href="https://www.eventbrite.com/e/bootstrapping-security-workshop-sf-815-tickets-44047103071">Register</a></div>
           </div>
         </div>
-        </div>
 
-        <div className="list">
+                <div className="list">
           <div className="list-icon icon-price">
             <span>$8k</span>
           </div>
@@ -41,6 +40,9 @@ const Register = () => {
             <div className="register-text"><a className="register-a" href="https://www.eventbrite.com/e/bootstrapping-security-workshop-sf-1017-tickets-44434798679">Register</a></div>
           </div>
         </div>
+        </div>
+
+
       <div className="container row list-center">
         <div className="list list-center">
         We select venues that enable multiple teams from multiple organizations to work independendently and simultaneously.  The rates above are for single teams of five. <br/><br/>
