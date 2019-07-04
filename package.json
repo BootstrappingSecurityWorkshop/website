@@ -5,7 +5,9 @@
   "main": "index.html",
   "scripts": {
     "build": "webpack",
-    "debug": "webpack --watch"
+    "debug": "webpack --watch",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -23,7 +25,8 @@
     "normalize.css": "^7.0.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "webpack": "^3.8.1"
+    "webpack": "^3.8.1",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -38,5 +41,6 @@
     "presets": [
       "es2015"
     ]
-  }
+  },
+  "snyk": true
 }
